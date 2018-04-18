@@ -1,0 +1,3 @@
+[submodule "kodiak"]
+	path = kodiak
+	url = https://github.com/vimc/kodiak
