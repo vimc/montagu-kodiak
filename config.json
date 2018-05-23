@@ -1,0 +1,13 @@
+{
+  "starport_path": "/test/starport",
+  "working_path": "/test/kodiak",
+  "vault_address": "https://support.montagu.dide.ic.ac.uk:8200",
+  "targets": [
+    {
+      "id": "test",
+      "encrypted": true,
+      "remote_bucket": "testbucket",
+      "local_path": "testtarget"
+    }
+  ]
+}
